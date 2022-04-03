@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    font-size: 30px;
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    margin-left: 10px;
+    padding: 5px;
+}

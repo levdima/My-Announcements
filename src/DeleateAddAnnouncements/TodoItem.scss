@@ -1,0 +1,54 @@
+.button {
+    width: 115px;
+    margin-bottom: 67px;
+    height: 30px;
+    background-color: whitesmoke;
+    font-size: 20px;
+    color: black;
+    margin-left: 10px;
+}
+
+.box2 {
+    float: left;
+}
+
+.cont {
+    margin-top: 100px;
+}
+
+.textconteiner {
+    display: flex;
+    flex-direction: row;
+}
+
+.text {
+    font-size: 25px;
+    color: whitesmoke;
+    margin-left: 75px;
+}
+
+.input {
+    width: 75%;
+    height: 25px;
+    margin-left: 150px;
+}
+
+.buttonInput {
+    height: 40px;
+    background-color: whitesmoke;
+    font-size: 20px;
+    color: black;
+    margin-left: 605px;
+}
+
+.LinkButton {
+    color: black;
+}
+
+.LinkButton:hover {
+    background-color: white;
+}
+
+.form {
+    margin-top: 250px;
+}
